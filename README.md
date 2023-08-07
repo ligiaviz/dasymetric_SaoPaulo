@@ -1,5 +1,7 @@
 # dasymetric_SaoPaulo
-This is the repository for the shapefiles of the dasymetric map of the city of São Paulo based on data from enumeration areas and sample areas of the Brazilian Demographic Census 2010. With this shapefile you can add variables joining them by enumeration area ("setor censitário") using the field CD_GEOCO_1, by sample area ("área de ponderação") using CD_APONDE or by Administrative District ("Distrito Administrativo") using CD_GEOCODD.
+This is the repository for the shapefiles of the dasymetric map of the city of São Paulo based on data from enumeration areas and sample areas of the Brazilian Demographic Census 2010. Projected Coordinate System:	SIRGAS_2000_UTM_Zone_23S.
+
+With this shapefile you can add variables joining them by enumeration area ("setor censitário") using the field CD_GEOCO_1, by sample area ("área de ponderação") using CD_APONDE or by Administrative District ("Distrito Administrativo") using CD_GEOCODD.
 
 The differences and advantages of using this dasymetric map was described in the paper:
 
